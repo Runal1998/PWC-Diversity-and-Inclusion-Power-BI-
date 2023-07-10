@@ -1,4 +1,4 @@
-# PWC-Diversity-and-Inclusion-Power-BI-
+# Diversity and Inclusion
 
 ## PwC Internship
 
